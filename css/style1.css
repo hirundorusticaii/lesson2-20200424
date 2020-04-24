@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-size: 15px;
+}
+
+body{
+  background-color: #ffc0cb;
+}
+
+header{
+  background: red;
+  text-align: center;
+}
+
+h1{
+  font-size: 3rem;
+  color:#fff;
+}
+
+li{
+  font-size: 1.5rem;
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  border: solid 1px #fff;
+}
+
+li:hover{
+  color: #fff;
+  background-color: #000;
+}
+
+.main{
+  text-align: center;
+}
+
+.box{
+  display: inline-block;
+  width: 40%;
+  margin: 10px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 4px 4px;
+}
+
+img{
+  width: 30%;
+}
+
+p{
+  font-size: 1.2rem;
+}
